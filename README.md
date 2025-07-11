@@ -22,7 +22,7 @@ I'm driven to solidify my knowledge while continuously learning new things. I lo
 I'm highly experienced with:
 
 - **Backend**: Java & Kotlin with Spring Boot, Node.js (JavaScript/TypeScript)
-- **Frontend**: React, TypeScript
+- **Frontend**: React, HTML, CSS
 - **Cloud & Infra**: AWS, Docker, GitHub Actions
 - **Databases**: PostgreSQL, SQL, Flyway
 
